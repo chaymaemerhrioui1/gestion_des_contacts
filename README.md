@@ -8,11 +8,30 @@ Dans ce contexte, le système de gestion des contacts en Java avec MySQL offre u
 
 ![WhatsApp Image 2024-01-30 à 11 11 24_7d1e815d](https://github.com/chaymaemerhrioui1/gestion_des_contacts/assets/128318349/3d8fe843-17f4-4a35-a4e3-5d4ff3178161)
 
-### Dans le Menu la premiere boutton ("1") : 
+### Dans le Menu , la premiere boutton par exemple  ("1") : 
 
 ![WhatsApp Image 2024-01-30 à 11 11 43_012b2b10](https://github.com/chaymaemerhrioui1/gestion_des_contacts/assets/128318349/7b9d4afd-d13d-4dc2-9c2f-af4ea23ba61c)
 
-Notre code lié avec base de données: 
+Le code est lié avec base de données , il ajoute automatiquement à la base de donnée : 
+
+![image](https://github.com/chaymaemerhrioui1/gestion_des_contacts/assets/128318349/4b12a834-8bd2-4008-8dc8-e3024d51af30)
+
+Il existe plusieurs fonctionalités comme supprimer un contact , lorsqu'on choisit  3 , on entre l'Id de contact et il va supprimer automatiquement de la base de données .
+et pour Créer groupe : 
+
+![image](https://github.com/chaymaemerhrioui1/gestion_des_contacts/assets/128318349/2702a1fd-75d7-41b1-8556-4ab13c31aa24)
+
+Le code est lié avec base de données , il ajoute automatiquement à la base de donnée : 
+
+![image](https://github.com/chaymaemerhrioui1/gestion_des_contacts/assets/128318349/268a43c3-5922-4366-89b1-c9499aecb380)
+
+Et la meme manière pour toutes les fonctionalitées du Projet .
+
+# FIN , Mercii ❤️❤️
+
+
+
+
 
 
 
